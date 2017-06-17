@@ -1,0 +1,12 @@
+/**
+ * Created by polino on 2017-06-17.
+ */
+public interface Interesados {
+    /*En esta interface, se determina un informar condiciones a cada uno de los interesados
+    Los Interesados, serán agregados en un método Suscribirse. (en el Main?)
+    Subscribir, se implementa en Condiciones(?)
+     */
+    void informar(Condicion condicion){
+
+    }
+}
